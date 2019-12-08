@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.web</groupId>
-    <artifactId>walkShop</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>walk</artifactId>
+    <version>shop</version>
     <packaging>war</packaging>
 
     <name>walkShop</name>
