@@ -21,11 +21,11 @@
           <div class="row">
             <div class="col-md-12">
               <div class="page-header">
-                <img alt="walk shop logo" src="./images/shoe-icon.png" class="logo">
+                <img alt="logo icon" src="./images/shoe-icon.png" class="logo">
                 <strong id="header-text">Walk Shop</strong>
                 <sub id="header-disclaimer">An E-commerce Prototype </sub>
-                <img alt="walk shop logo" src="./images/user-icon.png" class="menu">
-                <img alt="walk shop logo" src="./images/bag-icon.png" class="menu">
+                <img alt="user icon" src="./images/user-icon.png" class="menu">
+                <img alt="bag icon" src="./images/bag-icon.png" class="menu">
 
               </div>
             </div>
@@ -45,17 +45,17 @@
               <form role="form">
                 <div class="form-group">
 
-                  <label for="exampleInputEmail1">
+                  <label for="inputEmail1">
                     Email
                   </label>
-                  <input type="email" class="form-control" id="exampleInputEmail1">
+                  <input type="email" class="form-control" id="inputEmail1">
                 </div>
                 <div class="form-group">
 
-                  <label for="exampleInputPassword1">
+                  <label for="inputPassword1">
                     Senha
                   </label>
-                  <input type="password" class="form-control" id="exampleInputPassword1">
+                  <input type="password" class="form-control" id="inputPassword1">
                 </div>
                 <div id="first-buttom">
                   <button type="submit" class="btn btn-primary">
