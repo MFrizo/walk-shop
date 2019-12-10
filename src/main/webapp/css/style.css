@@ -1,20 +1,58 @@
 /*Empty file for CSS*/
-#rodape{
-    background: #c0C0C0;
-    color: #ffffff;
+.page-header {
+  background-color: #2aabd2;
+  height: 100%;
+  margin-bottom: 10px;
 }
 
-#titulo{
-    background: #025aa5;
-    color: #ffffff;
+.page-title { 
+  margin: 50px 0px 50px 0px;
+  line-height: 100px;
+  height: 100%;
 }
 
-#iconCarrinho{
-    width: 30px;
-    height: 30px;
+.logo {
+  float: left; 
+  margin: 5px 5px 5px 5px;
+  height: 100px;
+  background: #2aabd2;
+  background-color: #2aabd2;
+  color: #2aabd2;
 }
 
-#novo{
-    color: #ffffff;
-    size: 30px;
+.menu {
+  float:right;
+  margin: 5px 5px 5px 5px;
+  height: 100px;
+  background: #2aabd2;
+  background-color: #2aabd2;
+  color: #2aabd2;
+}
+
+#header-text {
+  font-size: 45px;
+  margin-left: 15px;
+  line-height: 100px;
+  height: 100px;
+  color: white;
+}
+
+#header-disclaimer {
+  color: #419641;
+  font-size: 18.72px;
+}
+
+#first-buttom {
+  padding: 0px 43%;
+}
+
+#second-buttom {
+  height: 250px;
+  padding: 105px 40%;
+}
+
+#errorMessage {
+  margin-top: 30px;
+  text-align: center;
+  color: red;
 }
